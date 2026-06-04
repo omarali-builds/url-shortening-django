@@ -7,7 +7,6 @@ A simple URL shortening service built with Django. Users can create shortened UR
 * Create short URLs
 * Redirect users to the original URL
 * Handle short URLs through dedicated endpoints
-* View URL usage statistics
 * REST-style API endpoints
 
 ---
