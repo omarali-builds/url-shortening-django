@@ -177,7 +177,7 @@ python manage.py runserver
 
 * Python
 * Django
-* Django REST Framework (if used)
+* Django REST Framework
 * SQLite
 
 ---
